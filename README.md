@@ -8,4 +8,4 @@ Based on projects from Brad Traversy and Florin Pop's course: [50 Projects in 50
 
 ![](./images//view.jpeg)
 
-### [Expanding Cards]() | [Live Demo]()
+### [Expanding Cards](https://github.com/Abedalrhmanrizk/-1-Expanding-Cards) | [Live Demo](https://abedalrhmanrizk.github.io/-1-Expanding-Cards/)
